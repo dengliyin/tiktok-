@@ -1,0 +1,8 @@
+projects/
+product/
+outputs/
+build/
+dist/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,7 @@
+{
+  "_说明": "产品信息收集智能体本地配置。该智能体只做本地文本整理，不调用 API。",
+  "output": {
+    "default_output_root": "product",
+    "include_empty_sections": true
+  }
+}
